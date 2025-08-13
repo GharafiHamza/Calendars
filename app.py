@@ -68,6 +68,7 @@ st.sidebar.header("Area of Interest (AOI)")
 AOI_FILES = {
     "Qatari EEZ": "aois/qatari_eez.geojson",
     "Saudi Arabia EEZ": "aois/saudi_arabia_eez.geojson",
+    "United Arab Emirates EEZ": "aois/emarati_eez.geojson",
 }
 QATARI_FALLBACK = "./qatari_eez.geojson"
 
