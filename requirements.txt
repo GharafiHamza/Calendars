@@ -1,0 +1,15 @@
+# Core app
+streamlit>=1.31,<2
+streamlit-folium>=0.18.0
+folium>=0.15.1
+
+# Data & geo stack
+pandas>=2.1.4
+numpy>=1.26.4
+geopandas>=0.14.3
+shapely>=2.0.2
+pyproj>=3.6.1
+fiona>=1.9.5
+
+# Optional but recommended (spatial index speeds intersects/clip)
+rtree>=1.2.0
